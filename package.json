@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-svg-to-jsx",
+  "name": "rollup-plugin-svg-to-jsx-vue",
   "version": "1.0.0",
   "description": "Rollup plugin for svg-to-jsx",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nolanlawson/rollup-plugin-svg-to-jsx.git"
+    "url": "git+https://github.com/zcrumbo/rollup-plugin-svg-to-jsx-vue.git"
   },
   "keywords": [],
-  "author": "Nolan Lawson <nolan@nolanlawson.com>",
+  "author": "Zachary Crumbo <zcrumbo@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nolanlawson/rollup-plugin-svg-to-jsx/issues"
+    "url": "https://github.com/zcrumbo/rollup-plugin-svg-to-jsx-vue/issues"
   },
-  "homepage": "https://github.com/nolanlawson/rollup-plugin-svg-to-jsx#readme",
+  "homepage": "https://github.com/zcrumbo/rollup-plugin-svg-to-jsx-vue#readme",
   "dependencies": {
     "magic-string": "^0.22.4",
     "rollup-pluginutils": "^2.0.1",
